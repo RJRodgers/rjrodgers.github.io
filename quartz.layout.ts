@@ -22,27 +22,29 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    // Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        // {
+        //   Component: Component.Search(),
+        //   grow: true,
+        // },
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.PageTitle(),
+    Component.Explorer({
+      title: "Pages",
+    }),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Graph(),
+    // Component.DesktopOnly(Component.TableOfContents()),
+    // Component.Backlinks(),
   ],
 }
 
@@ -50,18 +52,20 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        // {
+        //   Component: Component.Search(),
+        //   grow: true,
+        // },
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.PageTitle(),
+    Component.Explorer({
+      title: "Pages",
+    }),
   ],
   right: [],
 }
