@@ -1,0 +1,9 @@
+/* Disable expand/collapse in sidebar */
+.sidebar details {
+  pointer-events: none;
+}
+
+.sidebar summary::marker,
+.sidebar summary::before {
+  display: none !important;
+}
