@@ -11,6 +11,17 @@ import { concatenateResources } from "../util/resources"
 
 type OrderEntries = "sort" | "filter" | "map"
 
+// export interface Options {
+//   title?: string
+//   folderDefaultState: "collapsed" | "open"
+//   folderClickBehavior: "collapse" | "link"
+//   useSavedState: boolean
+//   sortFn: (a: FileTrieNode, b: FileTrieNode) => number
+//   filterFn: (node: FileTrieNode) => boolean
+//   mapFn: (node: FileTrieNode) => void
+//   order: OrderEntries[]
+// }
+
 export interface Options {
   title?: string
   folderDefaultState: "collapsed" | "open"
@@ -22,10 +33,11 @@ export interface Options {
   order: OrderEntries[]
 }
 
+
 const defaultOptions: Options = {
-  folderDefaultState: "collapsed",
+  folderDefaultState: "open",
   folderClickBehavior: "link",
-  useSavedState: true,
+  useSavedState: false,
   mapFn: (node) => {
     return node
   },
