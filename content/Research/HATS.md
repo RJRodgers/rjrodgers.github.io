@@ -3,7 +3,7 @@ title: HATS
 draft: false
 tags: []
 ---
-HATS stands for *Holography and Topological Semimetals*, and is the name of my Marie Skłodowska-Curie Actions postdoctoral fellowship. All of my research since September 2023 has been funded by the European Union through this fellowship.
+HATS stands for *Holography and Topological Semimetals*, and is the name of my Marie Skłodowska-Curie Actions postdoctoral fellowship. All of my research between October 2023 and September 2025 was funded by the European Union through this fellowship.
 
 On this page I describe the background and motivation for this research project. You can find more technical information on [CORDIS](https://cordis.europa.eu/project/id/101104286), the EU's website for research results.
 
