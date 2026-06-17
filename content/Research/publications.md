@@ -8,6 +8,8 @@ Here is a list of my research articles.  You can also find lists at [Inspire](<h
 <table>  <tr> <th colspan="2"> </th> </tr>
 <tr> <big><th><b><a href="https://arxiv.org/abs/2510.00123">Entanglement C-functions of defects and interfaces in N = 4 supersymmetric Yang-Mills theory</a></b></th><th>May 2026</th>  </big></tr>  
    <tr> <td colspan="2">Niko Jokela, Jani Kastikainen, José Manuel Penín, Ronnie Rodgers, Helime Ruotsalainen</td></tr>  
+   <tr><td colspan="2">In this work we study a defect and an interface in N=4 supersymmetric Yang-Mills theory.  We compute entanglement entropy, which we use to characterise the number of degrees of freedom associated to the defect/interface. </td></tr>  
+ %% %%
   <tr> <big><th><b><a href="https://arxiv.org/abs/2502.19226">Light dilaton near critical points in top-down holography</a></b></th><th>Feb. 2025</th>  </big></tr>  
    <tr> <td colspan="2">Daniel Elander, Antón F. Faedo, Maurizio Piai, Ronnie Rodgers, Javier G. Subils</td></tr>  
   <tr><td colspan="2">This is a follow up to <a href=https://arxiv.org/abs/2406.04974>Light holographic dilatons near critical points</a>, in which we demonstrate the mechanism described in that paper in a model arising from string theory/supergravity.  </td></tr>  
