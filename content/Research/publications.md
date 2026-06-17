@@ -7,7 +7,7 @@ Here is a list of my research articles.  You can also find lists at [Inspire](<h
 
 
 <table>  <tr> <th colspan="2"> </th> </tr>
-<tr> <big><th><b><a href="https://arxiv.org/abs/2602.06856">## Holomorphic D-brane embeddings in D-brane backgrounds</a></b></th><th>Feb. 2026</th>  </big></tr>  
+<tr> <big><th><b><a href="https://arxiv.org/abs/2602.06856">Holomorphic D-brane embeddings in D-brane backgrounds</a></b></th><th>Feb. 2026</th>  </big></tr>  
    <tr> <td colspan="2">James Ratcliffe, Ronnie Rodgers, Sangsoo Ryu</td></tr>  
    <tr><td colspan="2">This is a followup to <a href="https://arxiv.org/abs/2512.19688">Supersymmetric Holomorphic Masses in AdS/CFT with Flavour</a>, in which we introduce many new probe D-brane embeddings in various supergravity backgrounds.</td></tr>  
  %% %%
