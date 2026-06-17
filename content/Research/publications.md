@@ -5,6 +5,7 @@ tags: []
 ---
 Here is a list of my research articles.  You can also find lists at [Inspire](<https://inspirehep.net/authors/1507735?ui-citation-summary=true>) and [ORCID](<https://orcid.org/0000-0002-4826-6540>). The numerical data for some of these articles may be found on [Zenodo](<https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Rodgers,%20Ronnie%22&l=list&p=1&s=10&sort=bestmatch>).
 
+Here is a list of my research articles.  You can also find lists at <a href="https://inspirehep.net/authors/1507735?ui-citation-summary=true">Inspire</a> and [ORCID](<https://orcid.org/0000-0002-4826-6540>). The numerical data for some of these articles may be found on [Zenodo](<https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Rodgers,%20Ronnie%22&l=list&p=1&s=10&sort=bestmatch>).
 <p style="margin-bottom:-8.5cm;"> %% The numerical data for some of these articles may be found on <a href="https://arxiv.org/abs/2502.19226">Zenodo</a>. %%</p>
 
 <table>  <tr> <th colspan="2"> </th> </tr>
