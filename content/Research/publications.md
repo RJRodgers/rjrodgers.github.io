@@ -7,13 +7,19 @@ Here is a list of my research articles.  You can also find lists at [Inspire](<h
 
 
 <table>  <tr> <th colspan="2"> </th> </tr>
-<tr> <big><th><b><a href="https://arxiv.org/abs/2512.19688">Supersymmetric Holomorphic Masses in AdS/CFT with Flavour</a></b></th><th>May 2026</th>  </big></tr>  
+<tr> <big><th><b><a href="https://arxiv.org/abs/2602.06856">## Holomorphic D-brane embeddings in D-brane backgrounds</a></b></th><th>Feb. 2026</th>  </big></tr>  
+   <tr> <td colspan="2">James Ratcliffe, Ronnie Rodgers, Sangsoo Ryu</td></tr>  
+   <tr><td colspan="2">This is a followup to <a href="https://arxiv.org/abs/2512.19688">Supersymmetric Holomorphic Masses in AdS/CFT with Flavour</a>, in which we introduce many new probe D-brane embeddings in various supergravity backgrounds.</td></tr>  
+ %% %%
+   <tr> <th colspan="2"> </th> </tr>
+%%  %%
+<tr> <big><th><b><a href="https://arxiv.org/abs/2512.19688">Supersymmetric Holomorphic Masses in AdS/CFT with Flavour</a></b></th><th>Dec. 2025</th>  </big></tr>  
    <tr> <td colspan="2">Pietro Capuozzo, Jack Holden, Andy O'Bannon, James Ratcliffe, Ronnie Rodgers, Benjamin Suzzoni</td></tr>  
    <tr><td colspan="2">We introduce a family of probe D7-brane embeddings in AdS<sub>5</sub> x S<sup>5</sup>, specified by a holomorphic function of a complex coordinate. Introducing such a D7-brane is holographically dual to coupling N=4 supersymmetric Yang-Mills theory to an N=2 hypermultiplet with a mass that depends holomorphically on position.</td></tr>  
  %% %%
    <tr> <th colspan="2"> </th> </tr>
 %%  %%
-<tr> <big><th><b><a href="https://arxiv.org/abs/2510.00123">Entanglement C-functions of defects and interfaces in N = 4 supersymmetric Yang-Mills theory</a></b></th><th>May 2026</th>  </big></tr>  
+<tr> <big><th><b><a href="https://arxiv.org/abs/2510.00123">Entanglement C-functions of defects and interfaces in N = 4 supersymmetric Yang-Mills theory</a></b></th><th>May 2025</th>  </big></tr>  
    <tr> <td colspan="2">Niko Jokela, Jani Kastikainen, José Manuel Penín, Ronnie Rodgers, Helime Ruotsalainen</td></tr>  
    <tr><td colspan="2">We study a defect and an interface in N=4 supersymmetric Yang-Mills theory.  We compute entanglement entropy, which we use to characterise the number of degrees of freedom associated to the defect/interface. </td></tr>  
  %% %%
