@@ -3,7 +3,7 @@ title: Publications
 draft: "false"
 tags: []
 ---
-Here is a list of my research articles.  You can also find lists at [Inspire](<https://inspirehep.net/authors/1507735?ui-citation-summary=true>) and [ORCID](<https://orcid.org/0000-0002-4826-6540>). The numerical data for some of these articles may be found on [Zenodo](<https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Rodgers,%20Ronnie%22&l=list&p=1&s=10&sort=bestmatch>).
+Here is a list of my research articles.  You can also find lists at [Inspire](<https://inspirehep.net/authors/1507735?ui-citation-summary=true>) and [ORCID](<https://orcid.org/0000-0002-4826-6540>), both of which include details of where the articles have been published. The numerical data for some of these articles may be found on [Zenodo](<https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Rodgers,%20Ronnie%22&l=list&p=1&s=10&sort=bestmatch>).
 
 
 <table>  <tr> <th colspan="2"> </th> </tr>
