@@ -4,7 +4,6 @@ draft: "false"
 tags: []
 ---
 Here is a list of my research articles.  You can also find lists at [Inspire](<https://inspirehep.net/authors/1507735?ui-citation-summary=true>) and [ORCID](<https://orcid.org/0000-0002-4826-6540>). The numerical data for some of these articles may be found on [Zenodo](<https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Rodgers,%20Ronnie%22&l=list&p=1&s=10&sort=bestmatch>).
-
 <table>  <tr> <th colspan="2"> </th> </tr>
 <tr> <big><th><b><a href="https://arxiv.org/abs/2510.00123">Entanglement C-functions of defects and interfaces in N = 4 supersymmetric Yang-Mills theory</a></b></th><th>May 2026</th>  </big></tr>  
    <tr> <td colspan="2">Niko Jokela, Jani Kastikainen, José Manuel Penín, Ronnie Rodgers, Helime Ruotsalainen</td></tr>  
